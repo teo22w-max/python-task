@@ -22,5 +22,3 @@ write("recording_scipy.wav", freq, recording)
 wv.write("recording_wavio.wav", recording, freq, sampwidth=2)
 
 print("Tayyor!")
-
-
